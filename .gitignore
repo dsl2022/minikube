@@ -42,7 +42,6 @@ deploy/iso/minikube-iso/board/coreos/minikube/rootfs-overlay/etc/VERSION
 
 /.idea
 
-/.vscode
 
 test/integration/testdata/minikube-linux-amd64-latest-stable
 
@@ -51,3 +50,7 @@ test/integration/testdata/minikube-linux-amd64-latest-stable
 /site/resources
 /_gen
 
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
